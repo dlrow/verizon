@@ -1,0 +1,19 @@
+ in order to test one needs to change database properties in application properties file
+ need to change : 
+spring.datasource.url,
+spring.datasource.username and
+spring.datasource.password
+to point to their local mysql database
+ 
+ API's done
+ Create,
+ login, 
+ changePassword, 
+ delete by id and
+ getByEmail.
+
+
+things not done
+api for updating every other field and
+unit test cases
+
